@@ -28,6 +28,6 @@
 **[Low vision accessibility w3c](https://w3c.github.io/low-vision-a11y-tf/requirements.html#capitalization)**
 - Text in all capital letters is more difficult to read for most people, with and without disabilities.
 
-**[visionaustralia.org](https://www.visionaustralia.org/radio/business-consulting/digital-access/blog/typography-in-inclusive-design-part-1)
+**[visionaustralia.org](https://www.visionaustralia.org/radio/business-consulting/digital-access/blog/typography-in-inclusive-design-part-1)**
 - Limit the use of ALL CAPS text
 
