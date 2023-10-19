@@ -31,3 +31,7 @@
 **[visionaustralia.org](https://www.visionaustralia.org/radio/business-consulting/digital-access/blog/typography-in-inclusive-design-part-1)**
 - Limit the use of ALL CAPS text
 
+# CPD
+## Videos
+- [Understanding the causes of cost overruns](https://eaondemand.engineersaustralia.org.au/Play?pId=9a05b414-9af4-4fdf-82dd-9fefa921b231)
+- [Causality podcast youtube](https://www.youtube.com/@engineerednetwork) [or here](https://engineered.network/causality/)
