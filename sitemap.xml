@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://hutcho.github.io/hutcho.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://hutcho.github.io/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://hutcho.github.io/hutcho.github.io/</loc>
+<loc>https://hutcho.github.io/</loc>
 </url>
 <url>
-<loc>https://hutcho.github.io/hutcho.github.io/making-this-website.html</loc>
+<loc>https://hutcho.github.io/making-this-website.html</loc>
 <lastmod>2026-04-06T17:06:59+10:00</lastmod>
 </url>
 <url>
-<loc>https://hutcho.github.io/hutcho.github.io/writing-capitalisation.html</loc>
+<loc>https://hutcho.github.io/writing-capitalisation.html</loc>
 <lastmod>2026-04-06T18:00:27+10:00</lastmod>
 </url>
 </urlset>
