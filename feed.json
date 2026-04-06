@@ -28,14 +28,14 @@
             "url": "https://hutcho.github.io/making-this-website.html",
             "title": "Making this website",
             "summary": "Hi, this is my first foray into writing content for the web, using more than just a code editor, and github pages. Now it includes Publii, which is what Matt Sayar used. I hope to write about interesting things, especially on the topic of infrastructure&hellip;",
-            "content_html": "<p>Hi, this is my first foray into writing content for the web, using more than just a code editor, and github pages. Now it includes Publii, which is what <a href=\"https://mattsayar.com/just-pick-a-static-site-generator-and-start-writing/\" target=\"_blank\" rel=\"noopener noreferrer\"></a><a href=\"https://mattsayar.com/just-pick-a-static-site-generator-and-start-writing/\">Matt Sayar</a> used.</p>\n<p>I hope to write about interesting things, especially on the topic of infrastructure (or as it used to be known, public works).</p>",
+            "content_html": "<p>Hi, this is my first foray into writing content for the web, using more than just a code editor, and github pages. Now it includes Publii, which is what <a href=\"https://mattsayar.com/just-pick-a-static-site-generator-and-start-writing/\" target=\"_blank\" rel=\"noopener noreferrer\"></a><a href=\"https://mattsayar.com/just-pick-a-static-site-generator-and-start-writing/\">Matt Sayar</a> used.</p>\n<p>I hope to write about interesting things, especially on the topic of infrastructure (or as it used to be known, public works).</p>\n<p>Here's how you can do it too:</p>\n<p>1. Download and install Publii</p>\n<p>2. I already had a repo called hutcho.github.io so I wanted to use this. It hosted a static site, with very minimal content. I rewrote it into Publii pages.</p>\n<p>3. Publii server settings. This was hard to figure out, because the hints inside publii are wrong as of 2026-04-07:</p>\n<p>Website URL: https://hutcho.github.io           </p>\n<p>This was the most confusing. The hint says YOUR_USERNAME.github.io/YOUR_REPOSITORY_NAME. But this is wrong. It should just be <strong>YOUR_USERNAME.github.io</strong></p>\n<p>API server (leave as it): api.github.com</p>\n<p>Username: hutcho</p>\n<p>Repository: hutcho.github.io</p>\n<p>Branch: main</p>\n<p>Token: Generate this yourself on github. I tried using the newer style tokens, but after a few attemps gave up and used classic style. Copied from Publii docs and did what they say to do for the token permissions.</p>\n<p>Parallel uploads: I changed this to 3.</p>\n<p>API rate limiting: On (blue).</p>",
             "author": {
                 "name": "Ben Hutchins"
             },
             "tags": [
             ],
             "date_published": "2026-04-06T17:06:59+10:00",
-            "date_modified": "2026-04-06T17:06:59+10:00"
+            "date_modified": "2026-04-07T03:09:24+10:00"
         }
     ]
 }
